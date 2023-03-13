@@ -111,7 +111,7 @@ function Header({ showForm, setShowForm }) {
           width="68"
           alt="Today I Learaned Logo"
         />
-        <h1>appTitle</h1>
+        <h1>Today I Learaned</h1>
       </div>
 
       <button
